@@ -1,3 +1,3 @@
-# Git and Gidhub Course
+# Репозиторий Gulp
 
-Crash course for Git
+В данном репозитории будет размещена сборка Gulp
